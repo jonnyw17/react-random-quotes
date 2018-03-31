@@ -1,2 +1,1 @@
-# react-random-quotes
-FCC
+react-quote-machine
